@@ -1,0 +1,32 @@
+Overview of methods
+
+
+Scikit-Learn (or sklearn) library
+https://scikit-learn.org/stable/
+Overview of k-NN (sklearn's documentation)
+https://scikit-learn.org/stable/modules/neighbors.html
+Overview of Linear Models (sklearn's documentation)
+https://scikit-learn.org/stable/modules/linear_model.html
+Overview of Decision Trees (sklearn's documentation)
+https://scikit-learn.org/stable/modules/tree.html
+Overview of algorithms and parameters in H2O documentation
+http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science.html
+
+
+Additional Tools
+Vowpal Wabbit repository
+https://github.com/VowpalWabbit/vowpal_wabbit
+XGBoost repository
+https://github.com/dmlc/xgboost
+LightGBM repository
+https://github.com/Microsoft/LightGBM
+Interactive demo of simple feed-forward Neural Net
+http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.82537&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+Frameworks for Neural Nets: Keras,PyTorch,TensorFlow,MXNet, Lasagne
+
+Example from sklearn with different decision surfaces
+https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
+Arbitrary order factorization machines
+https://github.com/geffy/tffm
+
